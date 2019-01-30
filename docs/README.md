@@ -94,9 +94,9 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 ## Author
 
-| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	|
-|:---------------------------------------------------------------------------------------------------------:	|
-|                                            **Armin Chanchian**                                            	|
+| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	| ![?](https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/help-128.png)		|
+|:---------------------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------:		|
+|                                            **Armin Chanchian**                                            	|                               **Filters Authors**           					|
 
 ## Support
 
