@@ -74,15 +74,15 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 
 ## Features
 
-|                   | 🔰 ArminC uBlock₀ Settings | ◾ Default settings |
-| -------------------------- | :----------------: | :-------------: |
-| Block most of the ads      |         ✔️         |        ❌        |
-| Block most of the pop-ups  |         ✔️         |        ❌        |
-| Block most of the trackers |         ✔️         |        ❌        |
-| Block annoyances           |         ✔️         |        ❌        |
-| Block coin miners          |         ✔️         |        ❌        |
-| Block +18                  |         ✔️         |        ❌        |
-| Block ransomware, malware  |         ✔️         |        ❌        |
+|            |  🔰 ArminC uBlock₀ Settings | ◾ Default uBlock₀ settings |
+| --------------------------  | :----------------: | :-------------: |
+| Block most of the ads       |         ✔️         |        ❌        |
+| Block most of the pop-ups   |         ✔️         |        ❌        |
+| Block most of the trackers  |         ✔️         |        ❌        |
+| Block most of the annoyances|         ✔️         |        ❌        |
+| Block coin miners           |         ✔️         |        ❌        |
+| Block +18                   |         ✔️         |        ❌        |
+| Block ransomware, malware   |         ✔️         |        ❌        |
 
 ## Sources
 
