@@ -6,17 +6,17 @@
 <h4 align="center">A high-quality uBlock₀ config built for all types of people.</h4>
 
 <p align="center">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/commits/master">
+    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-uBlock-Settings.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub last commit">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/issues">
+    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-uBlock-Settings.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-uBlock-Settings.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
+    <a href="https://twitter.com/intent/tweet?text=Try this uBlock Origin config:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-uBlock-Settings">
+    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-uBlock-Settings.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
 </p>
       
@@ -50,7 +50,7 @@
 ## Installation
 
 ##### Downloading and installing steps:
-* **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the settings.
+* **[Download](https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip)** the latest version of the settings.
   * Make sure that you got **[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)** extension.
 * Open _uBlock₀_ **dashboard**.
   * See **[how to open the dashboard](https://github.com/gorhill/uBlock/wiki/Dashboard)**.
