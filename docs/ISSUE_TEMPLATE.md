@@ -54,7 +54,6 @@
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 - [ ] I searched the [current issues](https://github.com/ArmynC/ArminC-uBlock-Settings/issues) and the issue or feature is not known.
-- [ ] I searched the [troubleshooting](https://github.com/ArmynC/ArminC-uBlock-Settings/wiki/Troubleshooting) and there's no fix available for this bug.
 - [ ] I searched on Google, YouTube, Reddit and there's no fix.
 - [ ] I am sure I did not change the settings in any way (if not, detail).
 - [ ] I am mostly sure that the problem is related to the config and isn't my fault.
