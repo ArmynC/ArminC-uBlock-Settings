@@ -156,7 +156,7 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 | [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	| [![?](https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/help-128.png)](https://github.com/ArmynC/ArminC-uBlock-Settings#sources)		|
 |:---------------------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------------------------------------:		|
-|                                            **Armin Chanchian**                                            	                                                              **Filters Authors**                                          					|
+|                                            **Armin Chanchian**                                            	|                                                             **Filters Authors**                                          					|
 
 ## Support
 
