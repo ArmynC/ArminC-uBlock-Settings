@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip"><img src="https://arminc.tk/resources/ublock_settings/arminc_ublock_settings.png" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip"><img src="https://arminc.tk/resources/ublock_settings/arminc_ublock_settings.png" alt="ArminC uBlock Settings"></a>
 </h1>
 
 <h4 align="center">A high-quality uBlock₀ config built for all types of people.</h4>
