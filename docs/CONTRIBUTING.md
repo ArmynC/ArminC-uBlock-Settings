@@ -59,8 +59,8 @@ If you find a critical bug, [contact me](https://github.com/ArmynC/ArminC-uBlock
 Any critical issues should be submitted directly to the [contact](https://github.com/ArmynC/ArminC-uBlock-Settings/blob/master/docs/README.md#support).
 
 In order to determine whether you are dealing with a critical issue, ask yourself these two questions:
-* There is a significant negative change in the gameplay?
-* Is there any important value mistyped (like network, frame rate, mouse)?
+* There is a significant negative change in the performance?
+* Is there any important thing mistyped?
 
 If the answer to either of those two questions is "yes", then you're probably dealing with a critical issue. Note that even if you answer "no" to both questions, you may still be dealing with a critical issue, so if you're unsure, just [contact me](https://github.com/ArmynC/ArminC-uBlock-Settings/blob/master/docs/README.md#support).
 
