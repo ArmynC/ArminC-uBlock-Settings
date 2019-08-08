@@ -1,9 +1,9 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip"><img src="https://arminc.tk/resources/ublock_settings/arminc_ublock_settings.png" alt="ArminC uBlock Settings"></a>
+  <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip"><img src="https://arminc.cf/resources/ublock_settings/arminc_ublock_settings.png" alt="ArminC uBlock Settings"></a>
 </h1>
 
-<h4 align="center">A high-quality uBlock₀ config built for all types of people.</h4>
+<h4 align="center">A high-quality uBlock₀ config built for everyone.</h4>
 
 <p align="center">
     <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/commits/master">
@@ -41,7 +41,7 @@
 <tr>
 <td>
   
-**ArminC uBlock Settings** is a _configuration_ file  for _uBlock Origin_ which consist of several **high-quality** _cherry picked_ *filters* that aim to **block** **ads**, **pop-ups**, **trackers**, **malicious adresses**, and at the same time **decreases** the number of loaded **elements**, thus **loading** the pages **faster**.
+**ArminC uBlock Settings** is a _configuration_ file  for _uBlock Origin_ which consists of several **high-quality** _cherry-picked_ *filters* that aim to **block** **ads**, **pop-ups**, **trackers**, **malicious addresses** and **decreases** the number of loaded **elements**, thus **loading** the pages **faster**.
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 |:-------------------------------:|:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
 | uBlock Filters (uAssets)        | Raymond Hill                     | Default uBlock resources.                                                                                                                                           | [LINK](https://github.com/uBlockOrigin/uAssets/tree/master/filters)                           |
 | Adblock Warning Removal List    | Fanboy                           | Removes obtrusive messages and warnings targeted to users who use an adblocker.                                                                                     | [LINK](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) |
-| Adguard English filter          | AdGuard Team                     | English ad blocking.                                                                                                                                                | [LINK](https://github.com/AdguardTeam/AdguardFilters/tree/master/EnglishFilter/sections)      |
+| Adguard English filter          | AdGuard Team                     | English adblocking.                                                                                                                                                 | [LINK](https://github.com/AdguardTeam/AdguardFilters/tree/master/EnglishFilter/sections)      |
 | AdGuard Tracking Protection     | AdGuard Team                     | Block various online counters and web analytics tools.                                                                                                              | [LINK](https://github.com/AdguardTeam/AdguardFilters/tree/master/SpywareFilter/sections)      |
 | EasyPrivacy                     | Fanboy, Monzta, Famlam and Khrin | Removes all forms of tracking from the internet, including web bugs, tracking scripts and information collectors, thereby protecting your personal data.            | [LINK](https://github.com/easylist/easylist/tree/master/easyprivacy)                          |
 | Fanboy's Enhanced Tracking List | Fanboy                           | Block common tracking scripts.                                                                                                                                      | [LINK](https://fanboy.co.nz/filters.html)                                                     |
@@ -128,9 +128,11 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | I don't care about cookies                                 | Daniel Kladnik                       | Removes annoying cookie warnings from almost all websites.                                                                                       | [LINK](https://www.i-dont-care-about-cookies.eu/)                                                |
 | Lightswitch05's Ads & Tracking                             | Daniel White                         | Block Analytics, Ads, and tracking hosts.                                                                                                        | [LINK](https://github.com/lightswitch05/hosts)                                                   |
 | Lightswitch05's AMP Hosts                                  | Daniel White                         | Block AMP pages.                                                                                                                                 | [LINK](https://github.com/lightswitch05/hosts)                                                   |
-| IpLoggerFilter                                             | Piperun                              | Block any site/subsite who's only purpose is to log the IP.                                                                                      | [LINK](https://github.com/piperun/iploggerfilter)                                                |
-| Web Annoyances Ultralist - Modal Overlay Filters           | Yourduskquibbles                     | Block annoying web elements that block screen real estate.                                                                                       | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
-| Web Annoyances Ultralist - Newsletter Subscription Filters | Yourduskquibbles                     | Block annoying newsletter that block screen real estate.                                                                                         | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
+| IpLoggerFilter                                             | Piperun                              | Block any site/subsite whose only purpose is to log the IP.                                                                                      | [LINK](https://github.com/piperun/iploggerfilter)                                                |
+| Web Annoyances Ultralist - CSS Style Modifying Filters     | Yourduskquibbles                     | Modify site elements that block screen real estate.                                                                                              | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
+| Web Annoyances Ultralist - Generic Filters                 | Yourduskquibbles                     | Cosmetically remove common annoyances.                                                                                                           | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
+| Web Annoyances Ultralist - Modal Overlay Filters           | Yourduskquibbles                     | Remove interstitial modal overlay elements.                                                                                                      | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
+| Web Annoyances Ultralist - Newsletter Subscription Filters | Yourduskquibbles                     | Remove newsletter.                                                                                                                               | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
 
 ## Wiki
 
@@ -150,7 +152,7 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 Reach out to me at one of the following places:
 
-- Website at [arminc.tk](https://arminc.tk)
+- Website at [arminc.cf](https://arminc.cf)
 - Steam Profile at **[ArminC](https://steamcommunity.com/id/arminc/)**
 - E-Mail: **arminandrey@gmail.com**
 
@@ -158,4 +160,4 @@ Reach out to me at one of the following places:
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-- Copyright © [ArminC](https://arminc.tk "ArminC Directory Database").
+- Copyright © [ArminC](https://arminc.cf "ArminC Directory Database").
