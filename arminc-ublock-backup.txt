@@ -1,5 +1,5 @@
 {
-  "timeStamp": 1565280702529,
+  "timeStamp": 1565334459330,
   "version": "1.21.7b4",
   "userSettings": {
     "advancedUserEnabled": true,
@@ -97,12 +97,15 @@
     "userResourcesLocation": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resources.txt"
   },
   "whitelist": [
-    "cpanel.epizy.com",
-    "ifastnet.com",
-    "pcmonitors.info",
-    "www.whitesmoke.com"
+    "# about-scheme",
+    "# chrome-extension-scheme",
+    "# chrome-scheme",
+    "# moz-extension-scheme",
+    "# opera-scheme",
+    "# vivaldi-scheme",
+    "# wyciwyg-scheme"
   ],
-  "netWhitelist": "cpanel.epizy.com\nifastnet.com\npcmonitors.info\nwww.whitesmoke.com",
+  "netWhitelist": "# about-scheme\n# chrome-extension-scheme\n# chrome-scheme\n# moz-extension-scheme\n# opera-scheme\n# vivaldi-scheme\n# wyciwyg-scheme",
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
   "urlFilteringString": "",
   "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
