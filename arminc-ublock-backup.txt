@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1565334981652,
-  "version": "1.21.7b4",
+  "timeStamp": 1569345033796,
+  "version": "1.22.3b16",
   "userSettings": {
     "advancedUserEnabled": true,
     "alwaysDetachLogger": true,
@@ -76,7 +76,7 @@
     "autoUpdateAssetFetchPeriod": 120,
     "autoUpdateDelayAfterLaunch": 180,
     "autoUpdatePeriod": 7,
-    "blockingProfiles": "11101 00001",
+    "blockingProfiles": "11111/#F00 11011/#C0F 11001/#00F 00001",
     "cacheStorageAPI": "unset",
     "cacheStorageCompression": true,
     "cacheControlForFirefox1376932": "no-cache, no-store, must-revalidate",
@@ -84,8 +84,10 @@
     "debugScriptlets": false,
     "debugScriptletInjector": false,
     "disableWebAssembly": false,
+    "extensionUpdateForceReload": false,
     "ignoreRedirectFilters": false,
     "ignoreScriptInjectFilters": false,
+    "loggerPopupType": "popup",
     "manualUpdateAssetFetchPeriod": 500,
     "popupFontSize": "unset",
     "requestJournalProcessPeriod": 1000,
