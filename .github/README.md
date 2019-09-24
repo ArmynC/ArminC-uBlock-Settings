@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip"><img src="https://arminc.cf/resources/ublock_settings/arminc_ublock_settings.png" alt="ArminC uBlock Settings"></a>
+  <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip"><img src="https://arminc.ga/resources/ublock_settings/arminc_ublock_settings.png" alt="ArminC uBlock Settings"></a>
 </h1>
 
 <h4 align="center">A high-quality uBlock₀ config built for everyone.</h4>
@@ -151,7 +151,7 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 Reach out to me at one of the following places:
 
-- Website at [arminc.cf](https://arminc.cf)
+- Website at [arminc.ga](https://arminc.ga)
 - Steam Profile at **[ArminC](https://steamcommunity.com/id/arminc/)**
 - E-Mail: **arminandrey@gmail.com**
 
@@ -159,4 +159,4 @@ Reach out to me at one of the following places:
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-- Copyright © [ArminC](https://arminc.cf "ArminC Directory Database").
+- Copyright © [ArminC](https://arminc.ga "ArminC Directory Database").
