@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1569345033796,
-  "version": "1.22.3b16",
+  "timeStamp": 1569519599390,
+  "version": "1.22.3b18",
   "userSettings": {
     "advancedUserEnabled": true,
     "alwaysDetachLogger": true,
@@ -41,7 +41,6 @@
     "spam404-0",
     "adguard-annoyance",
     "fanboy-cookiemonster",
-    "hphosts",
     "mvps-0",
     "http://malwaredomains.lehigh.edu/files/immortal_domains.txt",
     "https://better.fyi/blockerList.txt",
@@ -87,6 +86,7 @@
     "extensionUpdateForceReload": false,
     "ignoreRedirectFilters": false,
     "ignoreScriptInjectFilters": false,
+    "filterAuthorMode": false,
     "loggerPopupType": "popup",
     "manualUpdateAssetFetchPeriod": 500,
     "popupFontSize": "unset",
