@@ -74,7 +74,7 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 
 ## Features
 
-|            |  🔰 ArminC uBlock₀ Settings | ◾ Default uBlock₀ settings |
+|          |  🔰 ArminC uBlock₀ Settings | ◾ Default uBlock₀ settings |
 | --------------------------  | :----------------: | :-------------: |
 | Block most of the ads       |         ✔️         |        ❌        |
 | Block most of the pop-ups   |         ✔️         |        ❌        |
@@ -82,14 +82,14 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | Block most of the annoyances|         ✔️         |        ❌        |
 | Block coin miners           |         ✔️         |        ❌        |
 | Block +18                   |         ✔️         |        ❌        |
-| Block ransomware, malware   |         ✔️         |        ❌        |
+| Block malware               |         ✔️         |        ❌        |
 
 ## Sources
 
 #### Built-in
 |            **Source**           |            **Author**            |                                                                              **Block**                                                                              |                                      **Location**                                             |
 |:-------------------------------:|:--------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|
-| uBlock Filters (uAssets)        | Raymond Hill                     | Anti-adblock, ad-reinsertion, popups/popunders, site breakage and video ads.                                                                                        | [LINK](https://github.com/uBlockOrigin/uAssets/tree/master/filters)                           |
+| uBlock Filters (uAssets)        | Raymond Hill                     | Adblock, ad-reinsertion, popups/popunders, site breakage and video ads.                                                                                        | [LINK](https://github.com/uBlockOrigin/uAssets/tree/master/filters)                           |
 | Adblock Warning Removal List    | Ryanbr                           | Obtrusive messages and warnings targeted to users who use an adblocker.                                                                                             | [LINK](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) |
 | Adguard Base                    | AdGuard Team                     | Advertising networks.                                                                                                                                               | [LINK](https://github.com/AdguardTeam/AdguardFilters/tree/master/EnglishFilter/sections)      |
 | AdGuard Tracking Protection     | AdGuard Team                     | Online counters and web analytics tools.                                                                                                                            | [LINK](https://github.com/AdguardTeam/AdguardFilters/tree/master/SpywareFilter/sections)      |
@@ -107,7 +107,6 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | Malware Domains Immortal                                   | RiskAnalytics                        | Domains that are known to be used to propagate malware.                                                                                          | [LINK](https://www.malwaredomains.com/?page_id=66)                                               |
 | Better                                                     | Ind.ie                               | Unethical web sites.                                                                                                                             | [LINK](https://better.fyi)                                                                       |
 | OpenPhish Phishing Feed                                    | OpenPhish Community                  | Phishing sites.                                                                                                                                  | [LINK](https://www.openphish.com/index.html)                                                     |
-| Ransomware Domain Blocklist                                | Abuse.Ch                             | Ransomware botnet C&C traffic.                                                                                                                   | [LINK](https://ransomwaretracker.abuse.ch/blocklist/)                                            |
 | add.Risk                                                   | FadeMind                             | Websites with risk content and malwares.                                                                                                         | [LINK](https://github.com/FadeMind/hosts.extras/tree/master/add.Risk)                            |
 | add.Spam                                                   | FadeMind                             | Spam websites.                                                                                                                                   | [LINK](https://github.com/FadeMind/hosts.extras/tree/master/add.Spam)                            |
 | Steven Black's ad-hoc list                                 | Steven Black                         | Additional sketch domains.                                                                                                                       | [LINK](https://github.com/StevenBlack/hosts/tree/master/data/StevenBlack)                        |
