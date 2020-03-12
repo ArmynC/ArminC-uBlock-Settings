@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1576852360942,
-  "version": "1.24.3b5",
+  "timeStamp": 1584007282212,
+  "version": "1.24.5b4",
   "userSettings": {
     "advancedUserEnabled": true,
     "alwaysDetachLogger": true,
@@ -25,9 +25,7 @@
   "selectedFilterLists": [
     "user-filters",
     "ublock-filters",
-    "ublock-annoyances",
     "ublock-badware",
-    "ublock-experimental",
     "ublock-privacy",
     "ublock-abuse",
     "ublock-unbreak",
@@ -40,6 +38,7 @@
     "spam404-0",
     "adguard-annoyance",
     "fanboy-cookiemonster",
+    "ublock-annoyances",
     "mvps-0",
     "http://malwaredomains.lehigh.edu/files/immortal_domains.txt",
     "https://better.fyi/blockerList.txt",
@@ -55,7 +54,6 @@
     "https://www.dshield.org/feeds/suspiciousdomains_Low.txt",
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt",
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt",
-    "https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt",
     "https://zerodot1.gitlab.io/CoinBlockerLists/list_browser_UBO.txt",
     "https://cdn.adblockcdn.com/filters/easylist_lite.txt",
     "https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt",
@@ -67,7 +65,8 @@
     "https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist",
     "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/css_style_filters.txt",
     "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt",
-    "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt"
+    "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt",
+    "https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt"
   ],
   "hiddenSettings": {
     "allowGenericProceduralFilters": false,
@@ -102,6 +101,7 @@
     "selfieAfter": 3,
     "strictBlockingBypassDuration": 120,
     "suspendTabsUntilReady": "unset",
+    "uiFlavor": "unset",
     "updateAssetBypassBrowserCache": false,
     "userResourcesLocation": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resources.txt"
   },
