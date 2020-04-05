@@ -41,7 +41,7 @@
 <tr>
 <td>
   
-**ArminC uBlock Settings** is a _configuration_ file  for _uBlock Origin_ which consists of several **high-quality** _cherry-picked_ *filters* that aim to **block** **ads**, **pop-ups**, **trackers**, **malicious addresses** and **decreases** the number of loaded **elements**, thus **loading** the pages **faster**.
+**ArminC uBlock Settings** is a _configuration_ file  for **uBlock Origin** which consists of several **high-quality** *filters* that aim to **block** **ads**, **pop-ups**, **trackers**, **malicious addresses** and **decreases** the number of loaded **elements**, thus **loading** the pages **faster**.
 
 </td>
 </tr>
@@ -125,15 +125,10 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | Hello, Goodbye!                                            | Bruce Roettgers                      | Chat and sales widgets.                                                                                                                          | [LINK](https://github.com/bcye/Hello-Goodbye)                                                    |
 | Hexxium Creations Threat List                              | Hexxium                              | Malware, scams, phishing attempts and deceptive content.                                                                                         | [LINK](https://github.com/HexxiumCreations/threat-list)                                          |
 | Lightswitch05's Ads & Tracking - Non-Extended              | Daniel White                         | Analytics, Ads, and tracking hosts.                                                                                                              | [LINK](https://github.com/lightswitch05/hosts)                                                   |
-| Lightswitch05's AMP Hosts - Non-Extended                   | Daniel White                         | AMP pages.                                                                                                                                       | [LINK](https://github.com/lightswitch05/hosts)                                                   |
 | NoCoin Filter List                                         | hoshsadiq                            | Nrowser based miners such as coin-hive.                                                                                                          | [LINK](https://github.com/hoshsadiq/adblock-nocoin-list)                                         |
 | IpLoggerFilter                                             | Piperun                              | Site/subsite whose only purpose is to log the IP.                                                                                                | [LINK](https://github.com/piperun/iploggerfilter)                                                |
 | Web Annoyances Ultralist - Modal Overlay Filters           | Yourduskquibbles                     | Interstitial modal overlay elements.                                                                                                             | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
 | Web Annoyances Ultralist - Newsletter Subscription Filters | Yourduskquibbles                     | Newsletter & other subscription cosmetic elements.                                                                                               | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
-
-## Wiki
-
-Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/ArmynC/ArminC-uBlock-Setings/wiki/).
 
 ## Contributing
 
