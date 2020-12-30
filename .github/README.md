@@ -26,8 +26,6 @@
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
   <a href="#sources">Sources</a> •
-  <a href="#wiki">Wiki</a> •
-  <a href="#contributing">Contributing</a> •
   <a href="#author">Author</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
@@ -110,7 +108,6 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | add.Risk                                                   | FadeMind                             | Websites with risk content and malwares.                                                                                                         | [LINK](https://github.com/FadeMind/hosts.extras/tree/master/add.Risk)                            |
 | add.Spam                                                   | FadeMind                             | Spam websites.                                                                                                                                   | [LINK](https://github.com/FadeMind/hosts.extras/tree/master/add.Spam)                            |
 | Steven Black's ad-hoc list                                 | Steven Black                         | Additional sketch domains.                                                                                                                       | [LINK](https://github.com/StevenBlack/hosts/tree/master/data/StevenBlack)                        |
-| Adblock Plus Anti-Circumvention - English                  | Monzta, Sashachu, Mile-ne and Wizmak | Circumvention ads.                                                                                                                               | [LINK](https://github.com/abp-filters/abp-filters-anti-cv)                                       |
 | Porn Blocklist Light                                       | Chad Mayfield                        | Porn sites that appear on Alex Top 1M site list.                                                                                                 | [LINK](https://github.com/chadmayfield/my-pihole-blocklists/tree/master/lists)                   |
 | Fanboy Addon - Notification General Block                  | EasyList Team                        | General notifications.                                                                                                                           | [LINK](https://github.com/easylist/easylist/tree/master/fanboy-addon)                            |
 | Fanboy Addon - Notification General Hide                   | EasyList Team                        | General notifications element.                                                                                                                   | [LINK](https://github.com/easylist/easylist/tree/master/fanboy-addon)                            |
@@ -120,17 +117,12 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | SomeoneWhoCares                                            | Dan Pollock                          | Spyware, certain pop-up traps, user tracking, and most advertising.                                                                              | [LINK](http://someonewhocares.org/hosts/zero)                                                    |
 | I Don't Want to Download Your Browser                      | DandelionSprout                      | Browser upgrade notifications.                                                                                                                   | [LINK](https://github.com/DandelionSprout/adfilt)                                                |
 | Browse websites without logging in                         | DandelionSprout                      | Log-in notifications.                                                                                                                            | [LINK](https://github.com/DandelionSprout/adfilt)                                                |
-| Adblock Warning Removal List                               | EasyList Team                        | Obtrusive messages and warnings targeted to users who use an adblocker.                                                                          | [LINK](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html)    |
 | Hello, Goodbye!                                            | Bruce Roettgers                      | Chat and sales widgets.                                                                                                                          | [LINK](https://github.com/bcye/Hello-Goodbye)                                                    |
 | Hexxium Creations Threat List                              | Hexxium                              | Malware, scams, phishing attempts and deceptive content.                                                                                         | [LINK](https://github.com/HexxiumCreations/threat-list)                                          |
 | NoCoin Filter List                                         | hoshsadiq                            | Nrowser based miners such as coin-hive.                                                                                                          | [LINK](https://github.com/hoshsadiq/adblock-nocoin-list)                                         |
 | IpLoggerFilter                                             | Piperun                              | Site/subsite whose only purpose is to log the IP.                                                                                                | [LINK](https://github.com/piperun/iploggerfilter)                                                |
 | Web Annoyances Ultralist - Modal Overlay Filters           | Yourduskquibbles                     | Interstitial modal overlay elements.                                                                                                             | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
 | Web Annoyances Ultralist - Newsletter Subscription Filters | Yourduskquibbles                     | Newsletter & other subscription cosmetic elements.                                                                                               | [LINK](https://github.com/yourduskquibbles/webannoyances/tree/master/filters)                    |
-
-## Contributing
-
-Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-uBlock-Settings/blob/master/docs/CONTRIBUTING.md).
 
 ## Author
 
@@ -148,6 +140,6 @@ Reach out to me at one of the following places:
 
 ## License
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?style=flat-square)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
 
 - Copyright © [ArminC](https://arminc.ga "ArminC Directory Database").
