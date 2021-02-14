@@ -1,11 +1,13 @@
 {
-  "timeStamp": 1611347001951,
-  "version": "1.32.5rc2",
+  "timeStamp": 1613291745270,
+  "version": "1.33.2",
   "userSettings": {
     "advancedUserEnabled": true,
     "cloudStorageEnabled": true,
     "dynamicFilteringEnabled": true,
-    "externalLists": [
+    "externalLists": "http://malwaredomains.lehigh.edu/files/immortal_domains.txt\nhttps://better.fyi/blockerList.txt\nhttps://openphish.com/feed.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt\nhttps://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts\nhttps://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts\nhttps://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts\nhttps://raw.githubusercontent.com/bcye/Hello-Goodbye/master/filterlist.txt\nhttps://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt\nhttps://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts\nhttps://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist\nhttps://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt\nhttps://someonewhocares.org/hosts/zero/hosts",
+    "firewallPaneMinimized": false,
+    "importedLists": [
       "http://malwaredomains.lehigh.edu/files/immortal_domains.txt",
       "https://better.fyi/blockerList.txt",
       "https://openphish.com/feed.txt",
@@ -29,7 +31,6 @@
       "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt",
       "https://someonewhocares.org/hosts/zero/hosts"
     ],
-    "firewallPaneMinimized": false,
     "popupPanelSections": 63,
     "requestLogMaxEntries": 5000,
     "webrtcIPAddressHidden": true
