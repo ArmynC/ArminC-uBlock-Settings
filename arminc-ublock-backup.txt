@@ -1,11 +1,11 @@
 {
-  "timeStamp": 1630500972511,
-  "version": "1.37.2",
+  "timeStamp": 1636387902259,
+  "version": "1.38.6",
   "userSettings": {
     "advancedUserEnabled": true,
     "cloudStorageEnabled": true,
     "dynamicFilteringEnabled": true,
-    "externalLists": "http://malwaredomains.lehigh.edu/files/immortal_domains.txt\nhttps://better.fyi/blockerList.txt\nhttps://openphish.com/feed.txt\nhttps://orca.pet/notonmyshift/abp.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt\nhttps://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts\nhttps://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt\nhttps://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt\nhttps://someonewhocares.org/hosts/zero/hosts\nhttps://www.fanboy.co.nz/enhancedstats.txt",
+    "externalLists": "http://malwaredomains.lehigh.edu/files/immortal_domains.txt\nhttps://better.fyi/blockerList.txt\nhttps://openphish.com/feed.txt\nhttps://orca.pet/notonmyshift/abp.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt\nhttps://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt\nhttps://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts\nhttps://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt\nhttps://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt\nhttps://someonewhocares.org/hosts/zero/hosts\nhttps://www.fanboy.co.nz/enhancedstats.txt",
     "firewallPaneMinimized": false,
     "importedLists": [
       "http://malwaredomains.lehigh.edu/files/immortal_domains.txt",
@@ -14,6 +14,7 @@
       "https://orca.pet/notonmyshift/abp.txt",
       "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt",
       "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt",
+      "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt",
       "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
       "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
       "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt",
@@ -43,9 +44,9 @@
     "easylist",
     "adguard-spyware",
     "adguard-spyware-url",
+    "block-lan",
     "easyprivacy",
     "urlhaus-1",
-    "spam404-0",
     "adguard-annoyance",
     "fanboy-cookiemonster",
     "ublock-annoyances",
@@ -53,7 +54,6 @@
     "http://malwaredomains.lehigh.edu/files/immortal_domains.txt",
     "https://better.fyi/blockerList.txt",
     "https://openphish.com/feed.txt",
-    "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
     "https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list",
     "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt",
     "https://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt",
@@ -63,11 +63,13 @@
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt",
     "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt",
     "https://www.fanboy.co.nz/enhancedstats.txt",
+    "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts",
     "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
-    "https://orca.pet/notonmyshift/abp.txt",
+    "https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt",
     "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt",
     "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt",
-    "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt"
+    "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt",
+    "https://orca.pet/notonmyshift/abp.txt"
   ],
   "hiddenSettings": {
     "userResourcesLocation": "https://raw.githubusercontent.com/gorhill/uBlock/master/assets/resources/scriptlets.js"
