@@ -38,7 +38,7 @@
 ## Your environment
 <!--- (For bugs) --->
 <!--- Include as many relevant details about your environment. -->
-* Config version (date):
+* Settings version (date):
 * Browser name and version (alpha?):
 * Extension name and version:
 * Operating system and version [OS] (tweaked?):
@@ -56,4 +56,4 @@
 - [ ] I searched the [current issues](https://github.com/ArmynC/ArminC-uBlock-Settings/issues) and the issue or feature is not known.
 - [ ] I searched on Google, YouTube, Reddit and there's no fix.
 - [ ] I am sure I did not change the settings in any way (if not, detail).
-- [ ] I am mostly sure that the problem is related to the config and isn't my fault.
+- [ ] I am mostly sure that the problem is related to these settings and isn't my fault.
