@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip"><img src="https://arminc.ga/resources/ublock_settings/arminc_ublock_settings.png" alt="ArminC uBlock Settings"></a>
+  <a href="https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-uBlock-Settings/master/arminc_ublock_settings.png" alt="ArminC uBlock Settings"></a>
 </h1>
 
 <h4 align="center">A high-quality uBlock₀ config built for everyone.</h4>
@@ -94,6 +94,7 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 | EasyList                          | EasyList Team                    | Adverts from international webpages, including unwanted frames, images and objects.                                                                                 | [LINK](https://easylist.to/)                                                                   |
 | AdGuard Tracking Protection       | AdGuard Team                     | Online counters and web analytics tools.                                                                                                                            | [LINK](https://github.com/AdguardTeam/AdguardFilters/tree/master/TrackParamFilter/sections)    |
 | AdGuard URL Tracking Protection   | AdGuard Team                     | Filter that enhances privacy by removing tracking parameters from URLs.                                                                                             | [LINK](https://github.com/AdguardTeam/AdguardFilters/tree/master/TrackParamFilter/sections)    |
+| Block access to LAN               | Gwarser                          | Public internet sites from digging into your local LAN files, and can also help mitigate DNS rebind attacks.                                                        | [LINK](https://github.com/gwarser/filter-lists)                                                |
 | EasyPrivacy                       | EasyList Team                    | Web bugs, tracking scripts and information collectors.                                                                                                              | [LINK](https://github.com/easylist/easylist/tree/master/easyprivacy)                           |
 | URLhaus - Malicious URL Blocklist | Ming Di Leom                     | Malicious websites that are being used for malware distribution.                                                                                                    | [LINK](https://gitlab.com/curben/urlhaus-filter)                                               |
 | Spam404                           | Cameron Dawe                     | Online scams.                                                                                                                                                       | [LINK](https://github.com/Spam404/lists)                                                       |
@@ -126,17 +127,13 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 
 ## Credits
 
-| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	| [![Community](https://www.arminc.ga/resources/community.png)](https://github.com/ArmynC/ArminC-uBlock-Settings#sources)		|
-|:---------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------------:		|
-|                                            **Armin Chanchian**                                            	|                                                       **The community**                                                       |
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/a_small.png)](https://github.com/ArmynC) 	| [![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/community.png)](https://github.com/ArmynC/ArminC-uBlock-Settings#sources)		|
+|:---------------------------------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:		|
+|                                                     **Armin Chanchian**                                                     	|                                                                           **The community**                                                                           |
 
 ## Support
 
-Reach out to me at one of the following places:
-
-- Website at [arminc.ga](https://arminc.ga)
-- Steam Profile at **[ArminC](https://steamcommunity.com/id/arminc/)**
-- E-Mail: **arminandrey@gmail.com**
+Reach out to me via **[profile addresses](https://github.com/ArmynC)**.
 
 ## License
 
