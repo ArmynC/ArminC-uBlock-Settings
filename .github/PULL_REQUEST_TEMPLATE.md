@@ -29,6 +29,3 @@
 - [ ] I have performed a self-review of my code.
 - [ ] I have changed the documentation.
 - [ ] My changes don't generate new warnings.
-- [ ] I have read the [CONTRIBUTING](https://github.com/ArmynC/ArminC-uBlock-Settings/blob/master/docs/CONTRIBUTING.md) document.
-- [ ] I have added tests that prove my fix is effective or that my feature works.
-- [ ] All new and existing tests pass.
