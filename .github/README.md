@@ -127,9 +127,9 @@ The _settings_ are **updated** (at a random time), so make sure you **come back*
 
 ## Credits
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/a_small.png)](https://github.com/ArmynC) 	| [![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/community.png)](https://github.com/ArmynC/ArminC-uBlock-Settings#sources)		|
-|:---------------------------------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:		|
-|                                                     **Armin Chanchian**                                                     	|                                                                           **The community**                                                                           |
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC) | [![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)](https://github.com/ArmynC/ArminC-uBlock-Settings#sources)		|
+|:------------------------------------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------------------------------------------------------------:		|
+|                                                    **Armin Chanchian**                                                   	|                                                                         **The community**                                                                         |
 
 ## Support
 
