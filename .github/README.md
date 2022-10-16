@@ -48,8 +48,10 @@
 ## Installation
 
 ##### Downloading and installing steps:
-* **[Download](https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip)** the latest version of the settings.
-  * Make sure that you got **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** extension.
+* **[Download](https://github.com/ArmynC/ArminC-uBlock-Settings/archive/master.zip)** the latest version of these settings.
+  * Get the **[uBlock Origin](https://github.com/gorhill/uBlock#installation)** extension. 
+        -- Make sure that you use **[Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)** for **unrestricted** working capabilities.
+        
 * Open _uBlock₀_ **dashboard**.
   * See **[how to open the dashboard](https://github.com/gorhill/uBlock/wiki/Dashboard)**.
 * At the bottom, in _Backup/Restore_ section, press `Restore from file...`
