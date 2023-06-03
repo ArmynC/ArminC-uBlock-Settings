@@ -1,10 +1,12 @@
 {
-  "timeStamp": 1665928012687,
-  "version": "1.44.4",
+  "timeStamp": 1685786932139,
+  "version": "1.49.2",
   "userSettings": {
     "advancedUserEnabled": true,
     "cloudStorageEnabled": true,
-    "externalLists": "https://better.fyi/blockerList.txt\nhttps://openphish.com/feed.txt\nhttps://orca.pet/notonmyshift/abp.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt\nhttps://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt\nhttps://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts\nhttps://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt\nhttps://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt\nhttps://someonewhocares.org/hosts/zero/hosts\nhttps://www.fanboy.co.nz/enhancedstats.txt",
+    "uiAccentCustom": true,
+    "uiAccentCustom0": "#0000a0",
+    "externalLists": "https://better.fyi/blockerList.txt\nhttps://openphish.com/feed.txt\nhttps://orca.pet/notonmyshift/abp.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/I%20Don't%20Want%20to%20Download%20Your%20Browser.txt\nhttps://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt\nhttps://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt\nhttps://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts\nhttps://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_block.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_general_hide.txt\nhttps://raw.githubusercontent.com/easylist/easylist/master/fanboy-addon/fanboy_notifications_thirdparty.txt\nhttps://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt\nhttps://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt\nhttps://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt\nhttps://someonewhocares.org/hosts/zero/hosts\nhttps://www.fanboy.co.nz/enhancedstats.txt",
     "firewallPaneMinimized": false,
     "importedLists": [
       "https://better.fyi/blockerList.txt",
@@ -22,7 +24,6 @@
       "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt",
       "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts",
       "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/ad_placeholders.txt",
-      "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/floating_filters.txt",
       "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/modal_filters.txt",
       "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/filters/newsletter_filters.txt",
       "https://someonewhocares.org/hosts/zero/hosts",
@@ -42,7 +43,6 @@
     "ublock-unbreak",
     "adguard-generic",
     "easylist",
-    "adguard-spyware",
     "adguard-spyware-url",
     "block-lan",
     "easyprivacy",
@@ -86,5 +86,5 @@
   "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
   "urlFilteringString": "",
   "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
-  "userFilters": ""
+  "userFilters": "www.youtube.com##ytd-app:style(overflow: hidden !important;)\n"
 }
